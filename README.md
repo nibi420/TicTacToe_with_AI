@@ -9,7 +9,7 @@ Calculates the best scenario move based on the Players Move
 + 2 Players
 
 ## Features
-+ Simple Command Line Frontend for.
++ Simple Command Line Frontend for best performance.
 + The AI uses Minimax Algorithm to beat the player (or at the worst, force a draw)
 
 ### Next Goal:
